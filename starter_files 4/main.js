@@ -100,7 +100,7 @@ console.log(greet("Hamilton"));
 // Then, write and example of using the function. 
 
 function madlib(a, b, c, d) {
-    return "Hello " + a + ", " + "how" + b + "are " + c + "today " + d + ".";
+    return "Hello " + a + ", " + "how " + b + " are " + c + " today " + d + ".";
 
 }
 console.log(madlib("pickle", "sandwhich", "meat", "fox"));
